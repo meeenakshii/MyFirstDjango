@@ -126,5 +126,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 STATICFILES_DIRS=[os.path.join(BASE_DIR,'static')]
 
-ALLOWED_HOSTS = ['myfirstdjango-2.onrender.com', '127.0.0.1']
+ALLOWED_HOSTS = ['myfirstdjango-3.onrender.com', '127.0.0.1']
 
